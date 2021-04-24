@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+  background: url(/image/altruist\ background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.title{
+  color: white;
+  font-size: 60px;
+}
+.content{
+  font-size: 25px;
+  color: white;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.content2{
+  font-size: 20px;
+  color: white;
+  font-family: sans-serif;
+  font-style: italic;
+}
+.btn1{
+  padding-left: 50em;
+  padding-right: 2em;
+}
+.btn3{
+  position: relative;
+  top: 5em;
+  right: 18.5em;
+}
+.btn4{
+  position: relative;
+  top: 5em;
+  right: 14.5em;
+}
