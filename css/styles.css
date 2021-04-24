@@ -1,0 +1,33 @@
+.title{
+  color: white;
+  font-size: 100px;
+  font-family: monospace;
+}
+
+body{
+  background-color: black;
+  background: url(/image/altruist\ background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.subtitle{
+  color: white;
+  font-size: 30;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.Download{
+  color: white;
+  font-size: 70;
+  font-weight: 600;
+  font-family: monospace;
+}
+.button{
+  padding-top: 2em;
+}
+.fa-android{
+  padding-right: 10px;
+}
